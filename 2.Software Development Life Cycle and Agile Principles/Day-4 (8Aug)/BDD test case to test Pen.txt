@@ -1,0 +1,16 @@
+Write a BDD test case to test pen.
+
+Feature : Test Pen
+Scenario: Pen Writing
+   Given I have a cello Pen with ink
+   when I write on a paper with pen
+   Then I see the text written
+
+Write a BDD test case to verify user is able to 
+withdraw money from bank account
+
+Feature: Withdraw Money
+Scenario:given I have bamk account with sufficient balance
+   when I withdraw a specific amount from my account
+  Then the amount should be deducted from my balance
+  And I should receive the withdrawn amount in cash

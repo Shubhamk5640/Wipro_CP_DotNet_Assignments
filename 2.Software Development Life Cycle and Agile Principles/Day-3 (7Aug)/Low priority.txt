@@ -1,0 +1,6 @@
+Low priority high severity examples are12345:
+- An application or web page crashes when a remote link is clicked, but the user rarely clicks the remote link1.
+- not work, but the user seldom reads the privacy notice2.
+- A logo error for a shipment website does not affect the functionality, but it damages the brand image3.
+- A minor defect with a low severity rating may not significantly impact the software’s quality and functionality, but it could have a high priority rating if it affects a critical business process4.
+- A spelling mistake in the website’s name on the main page does not affect functionality, but it negatively impacts the website’s reputation5.

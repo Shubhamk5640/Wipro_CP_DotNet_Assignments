@@ -1,0 +1,25 @@
+
+Part of defect
+ 
+1. description
+
+2. priority 
+
+3. seviority
+
+4. author
+
+5. environment
+
+6. date
+
+7. steps to reproduce
+
+8. Actual Result
+
+9. Expected Result
+
+10 Attachment
+
+11. which story it is blocking
+ 

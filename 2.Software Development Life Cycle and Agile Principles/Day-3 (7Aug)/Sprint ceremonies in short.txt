@@ -1,0 +1,13 @@
+Scrum ceremonies (sometimes called Scrum events) are important events or elements of the Scrum methodology 
+which follow the agile mindset and are often used in software development or iterative-type projects. 
+
+1.Sprint Planning: The team plans the work for the upcoming sprint. They define the sprint goal, select backlog items, 
+                   and create a plan to deliver them.
+
+2.Daily Standup (Daily Scrum): A short, daily meeting (usually 15 minutes) where team members update each other on their progress, 
+                               plans for the day, and any obstacles they’re facing.
+
+3.Sprint Review: Held at the end of the sprint, this meeting involves reviewing the completed work with stakeholders. 
+                 The team demonstrates what they’ve built and gathers feedback.
+
+4.Sprint Retrospective: The team reflects on the sprint to identify what went well, what didn’t, and how they can improve in the next sprint.

@@ -1,0 +1,55 @@
+Que.What Are Scrum Ceremonies?
+
+Scrum ceremonies (sometimes called Scrum events) are important events or elements of the Scrum methodology 
+which follow the agile mindset and are often used in software development or iterative-type projects. 
+
+1. Sprint planning
+As its name implies, the sprint planning ceremony takes place before the sprint commences. 
+This meeting is used to map out the scope, goals, and any issues or concerns for the upcoming sprint. 
+During the sprint planning ceremony, the team determines which items in the project backlog they will work on during the sprint.
+
+Key elements of the sprint planning ritual include: 
+-Defining the scope of the sprint
+-Establishing which tasks will be tackled and who on the team will be responsible for them 
+-Setting concrete goals for the sprint, including deadlines for completion and metrics to determine success
+-Addressing potential roadblocks, issues, or scheduling conflicts that might interfere with the sprint
+-Ensuring that the plans get logged and scheduled in your project management software or tracking system to monitor progress 
+  and maintain accountability.
+     When it comes to sprint planning, you’ll want to be mindful of any holidays, special events, or individual days off that 
+may affect the delivery or completion of certain tasks. Sprints typically last two weeks, which allows you just 10 workdays to
+accomplish the goals you’ve set for the sprint. Additionally, risk management should always play a role in the sprint planning
+ceremony. Scrum teams are not immune to unforeseen delays and hangups, so make sure to factor in these possibilities when planning.
+
+
+2. Daily Scrum
+The daily Scrum, also called the daily stand-up, is a short, time-boxed daily meeting in which each team member 
+delivers a brief status update. These meetings are intentionally short and sweet, ideally taking only 15 minutes and 
+no more than 30 at the most. The daily Scrum helps ensure that everyone is progressing with their tasks as scheduled 
+and that issues or roadblocks are being addressed.
+
+The daily Scrum ceremony should address on the following four questions:
+What has been accomplished so far?
+What’s currently being worked on?
+What’s up next?
+Are there any obstacles or impediments preventing progress?
+The daily Scrum must not turn into an in-the-weeds discussion. Otherwise, you risk spending too much of the workday talking 
+rather than being productive. It’s the Scrum master’s job to keep this ceremony on track. If a team member has an issue that 
+needs further attention, schedule some time outside of the daily Scrum to address it. 
+
+3. Sprint review
+The sprint review is the first of two post-sprint ceremonies. Because Scrum was originally designed as a software development 
+framework, each sprint was meant to produce a shippable increment of work, such as a new feature. 
+During the sprint review, that new feature is demonstrated and feedback solicited from managers and stakeholders. 
+Scrum has since been adopted by project teams across multiple industries and disciplines outside of IT. 
+However, the concept of the sprint remains the same: to produce a specific and defined outcome. 
+The sprint review is when that outcome is demoed or presented to stakeholders for comments and feedback.
+
+4. Sprint retrospective
+The sprint retrospective is the second ceremony to take place after a sprint has been completed. 
+It’s also the final ceremony of the Scrum process. During the retrospective ritual, the Scrum team reviews its processes to 
+determine what can be improved in subsequent sprints. Remember, the Agile philosophy calls for consistent assessment and improvement.
+To that end, the sprint retrospective ritual is one of the most critical of the entire Scrum framework.
+
+
+
+

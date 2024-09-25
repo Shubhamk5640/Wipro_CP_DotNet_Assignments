@@ -1,0 +1,45 @@
+Identify 05 P0 (critical) scenarios and
+write BDD test cases for them(Amazon Website)
+Given
+when 
+Then
+
+Feature: Login Feature
+Scenario 1:User successfully login with valid credentials
+Given the user is on the amazon login page
+When the user enters valid credentials 
+And click "Sign-In" button
+Then the user is successfully login
+
+Feature: Add Items in cart
+Scenario 2: User adds an item to the cart
+Given the user is logged in and on a product detail page
+When the user click the "Add to Cart" button
+Then the item is added to the shopping cart
+
+Scenario 3:User successfully checks out an order
+Given the user has items in their cart and is on the checkout page
+When the user fills all details 
+And click the "Place Your Order" button
+Then the order is successfully placed
+
+Scenario 4:Out-Of-Stock item displays messaging
+Given the user is select an item that is out of stock
+When the user attempts to add the out of stock item to their cart
+Then a message is displayed to the user that the item is out of stock
+
+
+Scenario 5: Bigbillion Day sales verification
+Given user is on home page
+Then user is able to see the BDD advertisement
+
+Scenario 6: Category navigation
+Given user is on home page
+When user is able to see different categories tabs
+And user select electronics tab
+Then user is able to see the electronic page
+
+
+
+
+
