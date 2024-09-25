@@ -1,0 +1,17 @@
+#!/bin/bash
+if [ "$#" -ne 2 ]; then
+  echo "Usage: $0 directory file name"
+exit 1
+fi
+
+current_file=$1
+new_file=$2
+
+found_file=$(find "$current_file" -type f -name "$new_file")
+
+if [ -n "$found file" ];
+then
+  echo "file found"
+else
+  echo "file not found"
+fi
