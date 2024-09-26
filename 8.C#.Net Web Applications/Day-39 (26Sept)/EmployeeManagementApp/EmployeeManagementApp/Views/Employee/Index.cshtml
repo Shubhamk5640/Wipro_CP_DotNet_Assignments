@@ -1,0 +1,37 @@
+﻿@model List<EmployeeManagementApp.Models.Employee>
+
+<h2>Employee List</h2>
+<br />
+        
+
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone Number</th>
+            <th>Actions</th> <!-- Add a header for the action buttons -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr>
+                <td>@employee.FullName</td>
+                <td>@employee.Email</td>
+                <td>@employee.PhoneNumber</td>
+                <td>
+                    <!-- Edit button -->
+                    <a asp-action="Edit" asp-route-id="@employee.Id" class="btn btn-warning">Edit</a>
+                    <!-- Details button -->
+                    <a asp-action="Details" asp-route-id="@employee.Id" class="btn btn-info">Details</a>
+                    <!-- Delete button (form to avoid GET request for deletion) -->
+                    <form asp-action="DeleteConfirmed" asp-route-id="@employee.Id" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this employee?');">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

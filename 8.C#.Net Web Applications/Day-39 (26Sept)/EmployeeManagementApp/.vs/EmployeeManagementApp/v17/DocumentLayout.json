@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shubham\\Desktop\\Day-39 (26Sept)\\EmployeeManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C93D9C63-205E-4768-AE92-060DFD40675A}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\shubham\\desktop\\day-39 (26sept)\\employeemanagementapp\\employeemanagementapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C93D9C63-205E-4768-AE92-060DFD40675A}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93D9C63-205E-4768-AE92-060DFD40675A}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\shubham\\desktop\\day-39 (26sept)\\employeemanagementapp\\employeemanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C93D9C63-205E-4768-AE92-060DFD40675A}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93D9C63-205E-4768-AE92-060DFD40675A}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\shubham\\desktop\\day-39 (26sept)\\employeemanagementapp\\employeemanagementapp\\views\\employee\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C93D9C63-205E-4768-AE92-060DFD40675A}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\views\\employee\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93D9C63-205E-4768-AE92-060DFD40675A}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\shubham\\desktop\\day-39 (26sept)\\employeemanagementapp\\employeemanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C93D9C63-205E-4768-AE92-060DFD40675A}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93D9C63-205E-4768-AE92-060DFD40675A}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\shubham\\desktop\\day-39 (26sept)\\employeemanagementapp\\employeemanagementapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93D9C63-205E-4768-AE92-060DFD40675A}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93D9C63-205E-4768-AE92-060DFD40675A}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\shubham\\desktop\\day-39 (26sept)\\employeemanagementapp\\employeemanagementapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93D9C63-205E-4768-AE92-060DFD40675A}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Day-39 (26Sept)\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Day-39 (26Sept)\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmployeeManagementApp\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T14:30:08.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Day-39 (26Sept)\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\Employee\\List.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Views\\Employee\\List.cshtml",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Day-39 (26Sept)\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\Employee\\List.cshtml",
+              "RelativeToolTip": "EmployeeManagementApp\\Views\\Employee\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T14:27:41.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Day-39 (26Sept)\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Day-39 (26Sept)\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EmployeeManagementApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T14:04:49.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Day-39 (26Sept)\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Day-39 (26Sept)\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T14:02:50.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Day-39 (26Sept)\\EmployeeManagementApp\\EmployeeManagementApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Day-39 (26Sept)\\EmployeeManagementApp\\EmployeeManagementApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeeManagementApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:02:44.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Day-39 (26Sept)\\EmployeeManagementApp\\EmployeeManagementApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Day-39 (26Sept)\\EmployeeManagementApp\\EmployeeManagementApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagementApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:01:34.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

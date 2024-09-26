@@ -1,0 +1,45 @@
+﻿@model List<EmployeeManagementApp.Models.Employee>
+
+
+
+<h2>Employee List</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Full_Name</th>
+            <th>Email</th>
+            <th>Phone Number</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr>
+                <td>@employee.FullName</td>
+                <td>@employee.Email</td>
+                <td>@employee.PhoneNumber</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

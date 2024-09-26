@@ -1,0 +1,13 @@
+1) Create Employee Controller 
+2) Create List action method and Index razor view ( to show list of employee) 
+FirstName 
+MiddleName 
+LastName 
+Salary 
+Email 
+PhoneNumber 
+Address 
+Country 
+Age 
+DateOfBirth 
+Show: Name ( FirstName+MiddleName+LastName) , Email, Phone Number column on List Page Atleast 5 record with valid realtime data
