@@ -1,0 +1,43 @@
+<table border="3">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Position</th>
+        <th>Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let employee of employees">
+        <td>{{ employee.id }}</td>
+        <td>{{ employee.name }}</td>
+        <td>{{ employee.position }}</td>
+        <td>
+          <button (click)="employee.showDetails = !employee.showDetails">
+            {{ employee.showDetails ? 'Hide Details' : 'Show Details' }}
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <div *ngFor="let employee of employees">
+    <table *ngIf="employee.showDetails" border="1">
+      <thead>
+        <tr>
+          <th>Details for {{ employee.name }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <p>ID: {{ employee.id }}</p>
+            <p>Position: {{ employee.position }}</p>
+            <p>Department: {{ employee.department }}</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
+  

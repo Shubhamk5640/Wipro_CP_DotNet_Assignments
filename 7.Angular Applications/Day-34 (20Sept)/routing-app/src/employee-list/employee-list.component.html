@@ -1,0 +1,6 @@
+<table>
+    <tr *ngFor="let employee of employees">
+      <td><a [routerLink]="['/employee', employee.id]">Show Details</a></td>
+    </tr>
+  </table>
+  

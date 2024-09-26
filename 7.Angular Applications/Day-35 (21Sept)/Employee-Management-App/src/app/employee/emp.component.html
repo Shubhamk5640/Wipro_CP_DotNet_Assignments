@@ -1,0 +1,19 @@
+<div *ngIf="employee">
+  <div class="employee-details">
+    <h3>Employee Details</h3>
+    <table style="width: 100%; border-collapse: collapse;">
+      <tr>
+        <td style="padding: 10px;"><strong>Name:</strong></td>
+        <td style="padding: 10px;">{{ employee.name }}</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;"><strong>Position:</strong></td>
+        <td style="padding: 10px;">{{ employee.position }}</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;"><strong>Department:</strong></td>
+        <td style="padding: 10px;">{{ employee.department }}</td>
+      </tr>
+    </table>
+  </div>
+</div>

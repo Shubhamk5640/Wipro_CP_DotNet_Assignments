@@ -1,0 +1,8 @@
+2nd task:
+
+create employee form 
+
+1) Two way databinding with ngModel
+
+2) when we change value the respective value will shown in end of page automatic
+ 

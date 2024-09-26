@@ -1,0 +1,7 @@
+1) implement nested component 
+
+employee List component -> show list of component
+
+employee component-> show single employee details
+
+ 

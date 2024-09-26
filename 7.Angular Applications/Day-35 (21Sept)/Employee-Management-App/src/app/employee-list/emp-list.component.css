@@ -1,0 +1,29 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+tr:hover {
+  background-color: #f0f0f0;
+}
+
+tr.selected {
+  background-color: #e0f7fa;
+}
+
+button {
+  margin-top: 10px;
+}
+
+button.btn-primary {
+  background-color: #007bff;
+}
+
+button.btn-info {
+  background-color: #17a2b8;
+}

@@ -1,0 +1,9 @@
+<div>
+    <h3>{{ employee.name }}</h3>
+    <button (click)="toggleDetails()">{{ showDetails ? 'Hide' : 'Show' }} Details</button>
+    <div *ngIf="showDetails">
+      <p>Position: {{ employee.position }}</p>
+      <p>ID: {{ employee.id }}</p>
+    </div>
+  </div>
+  

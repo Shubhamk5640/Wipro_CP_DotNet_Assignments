@@ -1,0 +1,30 @@
+<h2 class="text-center">Employee List</h2>
+<table class="table table-bordered table-hover">
+  <thead class="thead-light">
+    <tr>
+      <th>Name</th>
+      <th *ngIf="showDetails">Age</th> <!-- Age column shown conditionally -->
+      <th *ngIf="showDetails">Salary</th> <!-- Salary column shown conditionally -->
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let employee of employees" [class.table-active]="selectedEmployee === employee">
+      <td>{{ employee.name }}</td>
+      <td *ngIf="showDetails">{{ employee.age }}</td> <!-- Age data -->
+      <td *ngIf="showDetails">{{ employee.salary }}</td> <!-- Salary data -->
+      <td>
+        <button class="btn btn-info" (click)="toggleDetails(employee)">
+          {{ selectedEmployee === employee ? 'Hide Details' : 'Show Details' }}
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Show/Hide More Details Button -->
+<button class="btn btn-primary" (click)="toggleMoreDetails()">
+  {{ showDetails ? 'Hide More Details' : 'Show More Details' }}
+</button>
+
+<emp *ngIf="selectedEmployee" [employee]="selectedEmployee"></emp>

@@ -1,0 +1,19 @@
+<h1>Employee Management App!</h1>
+<div *ngIf="employee">
+  <form>
+    <label>ID: <input [(ngModel)]="employee.id" disabled /></label><br />
+    <label>Name: <input [(ngModel)]="employee.name" /></label><br />
+    <label>Position: <input [(ngModel)]="employee.position" /></label><br />
+    <label>Department: <input [(ngModel)]="employee.department" /></label><br />
+    <label>Salary: <input [(ngModel)]="employee.salary" /></label><br />
+  </form>
+  <button (click)="updateEmployee()">Update</button>
+  <div>
+    <h2>Updated Data:</h2>
+    <p>ID: {{ employee.id }}</p>
+    <p>Name: {{ employee.name }}</p>
+    <p>Position: {{ employee.position }}</p>
+    <p>Department: {{ employee.department }}</p>
+    <p>Salary: {{ employee.salary | currency }}</p>
+  </div>
+</div>
