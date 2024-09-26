@@ -1,0 +1,22 @@
+1) Employee List Component
+   a) setup the Fake Rest API in ANgular app with json-server.
+   b) Fill some dummy data inside the json file.
+   c) Get the data from the fake api and show them into the employee list page.
+     (Use httpclient to make the http call for rest API, use service as a center place for employee Data)
+
+
+Id, FirstName, MiddleName, Last Name  Age  Salary Gender  Country
+
+npm install-g json-server
+
+Cretae empdb.json file and then run command: json-server empdb.json
+
+
+
+2) Make an create employee component with reactive form approach( FormGroup or form builder)
+   Controls -> 
+    FirstName, MiddleName, Last Name
+    Age        Salary      Gender
+    Country    
+   a) Perform Validation in the form 
+   b) Save the data inside the json file with http client call through employee service

@@ -1,0 +1,9 @@
+
+1) Employee List Page 
+   create Edit button on click of that user will be navigated to the employee-edit page (with all the value prefiiled
+     from the employee he selected)
+ 
+2) Edit-employee Page
+   1) Build form with template driven Form
+   2) Perform validation on each control by template reference variable
+   3) ON click of update button log the form value in the console

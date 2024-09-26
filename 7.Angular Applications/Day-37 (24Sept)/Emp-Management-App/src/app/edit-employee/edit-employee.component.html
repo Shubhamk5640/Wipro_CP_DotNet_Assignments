@@ -1,0 +1,129 @@
+<div class="container form-container">
+    <h2>Edit Employee</h2>
+    <form (ngSubmit)="onSubmit()" #employeeForm="ngForm">
+      <div class="row">
+        <div class="form-group">
+            <label for="employeeId">Employee ID</label>
+            <input type="number" id="employeeId" [(ngModel)]="employee.id" class="form-control" name="employeeId" required />
+          </div>
+          
+          <!-- Fetch Employee Data Button -->
+          <button (click)="fetchEmployeeData()" class="btn btn-primary">Get Employee Data</button>
+          
+        <!-- First Name -->
+        <div class="col-md-4 form-group">
+          <label for="firstName">First Name</label>
+          <input type="text" class="form-control" id="firstName" [(ngModel)]="employee.firstName" name="firstName" required #firstName="ngModel">
+          <div *ngIf="firstName.invalid && firstName.touched" class="text-danger">
+            First name is required.
+          </div>
+        </div>
+  
+        <!-- Last Name -->
+        <div class="col-md-4 form-group">
+          <label for="lastName">Last Name</label>
+          <input type="text" class="form-control" id="lastName" [(ngModel)]="employee.lastName" name="lastName" required #lastName="ngModel">
+          <div *ngIf="lastName.invalid && lastName.touched" class="text-danger">
+            Last name is required.
+          </div>
+        </div>
+  
+        <!-- Email -->
+        <div class="col-md-4 form-group">
+          <label for="email">Email</label>
+          <input type="email" class="form-control" id="email" [(ngModel)]="employee.email" name="email" required #email="ngModel">
+          <div *ngIf="email.invalid && email.touched" class="text-danger">
+            Valid email is required.
+          </div>
+        </div>
+      </div>
+  
+      <div class="row">
+        <!-- Position -->
+        <div class="col-md-4 form-group">
+          <label for="position">Position</label>
+          <input type="text" class="form-control" id="position" [(ngModel)]="employee.position" name="position" required #position="ngModel">
+          <div *ngIf="position.invalid && position.touched" class="text-danger">
+            Position is required.
+          </div>
+        </div>
+  
+        <!-- Department -->
+        <div class="col-md-4 form-group">
+          <label for="department">Department</label>
+          <input type="text" class="form-control" id="department" [(ngModel)]="employee.department" name="department" required #department="ngModel">
+          <div *ngIf="department.invalid && department.touched" class="text-danger">
+            Department is required.
+          </div>
+        </div>
+  
+        <!-- Age -->
+        <div class="col-md-4 form-group">
+          <label for="age">Age</label>
+          <input type="number" class="form-control" id="age" [(ngModel)]="employee.age" name="age" required #age="ngModel" min="18" max="65">
+          <div *ngIf="age.invalid && age.touched" class="text-danger">
+            Age must be between 18 and 65.
+          </div>
+        </div>
+      </div>
+  
+      <div class="row">
+        <!-- Phone Number -->
+        <div class="col-md-4 form-group">
+          <label for="phone">Phone Number</label>
+          <input type="text" class="form-control" id="phone" [(ngModel)]="employee.phoneNumber" name="phoneNumber" required #phoneNumber="ngModel" pattern="^[0-9]{10}$">
+          <div *ngIf="phoneNumber.invalid && phoneNumber.touched" class="text-danger">
+            Valid phone number is required (10 digits).
+          </div>
+        </div>
+  
+        <!-- City -->
+        <div class="col-md-4 form-group">
+          <label for="city">City</label>
+          <input type="text" class="form-control" id="city" [(ngModel)]="employee.city" name="city" required #city="ngModel">
+          <div *ngIf="city.invalid && city.touched" class="text-danger">
+            City is required.
+          </div>
+        </div>
+  
+        <!-- Country -->
+        <div class="col-md-4 form-group">
+          <label for="country">Country</label>
+          <input type="text" class="form-control" id="country" [(ngModel)]="employee.country" name="country" required #country="ngModel">
+          <div *ngIf="country.invalid && country.touched" class="text-danger">
+            Country is required.
+          </div>
+        </div>
+      </div>
+  
+      <div class="row">
+        <!-- Gender -->
+        <div class="col-md-4 form-group">
+          <label>Gender</label><br>
+          <input type="radio" id="male" value="Male" [(ngModel)]="employee.gender" name="gender" required> Male
+          <input type="radio" id="female" value="Female" [(ngModel)]="employee.gender" name="gender" required> Female
+          <div *ngIf="employee.gender == null && employeeForm.submitted" class="text-danger">
+            Gender is required.
+          </div>
+        </div>
+  
+        <!-- Experience -->
+        <div class="col-md-4 form-group">
+          <label for="experience">Experience (years)</label>
+          <input type="number" class="form-control" id="experience" [(ngModel)]="employee.experience" name="experience" required #experience="ngModel" min="0">
+          <div *ngIf="experience.invalid && experience.touched" class="text-danger">
+            Experience is required and must be a valid number.
+          </div>
+        </div>
+  
+        <!-- Profile Picture -->
+        <div class="col-md-4 form-group">
+          <label for="profilePicture">Profile Picture</label>
+          <input type="file" class="form-control" id="profilePicture" (change)="onFileSelected($event)" name="profilePicture">
+        </div>
+      </div>
+  
+      <button type="submit" class="btn btn-primary" [disabled]="employeeForm.invalid">Update Employee</button>
+    </form>
+  </div>
+  

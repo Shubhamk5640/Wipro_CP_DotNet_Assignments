@@ -1,0 +1,13 @@
+.navbar-nav {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .navbar-nav .nav-item {
+    margin-right: 15px; /* Adjust spacing as per your design */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff; /* Adjust text color */
+  }
+  
