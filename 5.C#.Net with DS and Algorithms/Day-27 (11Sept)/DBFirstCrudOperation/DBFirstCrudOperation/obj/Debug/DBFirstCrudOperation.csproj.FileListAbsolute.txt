@@ -1,0 +1,12 @@
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\DBFirstCrudOperation\DBFirstCrudOperation\bin\Debug\DBFirstCrudOperation.exe.config
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\DBFirstCrudOperation\DBFirstCrudOperation\bin\Debug\DBFirstCrudOperation.exe
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\DBFirstCrudOperation\DBFirstCrudOperation\bin\Debug\DBFirstCrudOperation.pdb
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\DBFirstCrudOperation\DBFirstCrudOperation\bin\Debug\EntityFramework.dll
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\DBFirstCrudOperation\DBFirstCrudOperation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\DBFirstCrudOperation\DBFirstCrudOperation\bin\Debug\EntityFramework.xml
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\DBFirstCrudOperation\DBFirstCrudOperation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\DBFirstCrudOperation\DBFirstCrudOperation\obj\Debug\DBFirstCrudOperation.csproj.AssemblyReference.cache
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\DBFirstCrudOperation\DBFirstCrudOperation\obj\Debug\DBFirstCrudOperation.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\DBFirstCrudOperation\DBFirstCrudOperation\obj\Debug\DBFirstC.F3B9A9DF.Up2Date
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\DBFirstCrudOperation\DBFirstCrudOperation\obj\Debug\DBFirstCrudOperation.exe
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\DBFirstCrudOperation\DBFirstCrudOperation\obj\Debug\DBFirstCrudOperation.pdb

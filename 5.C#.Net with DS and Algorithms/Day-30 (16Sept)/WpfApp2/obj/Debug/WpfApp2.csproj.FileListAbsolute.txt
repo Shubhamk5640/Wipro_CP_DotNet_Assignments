@@ -1,0 +1,76 @@
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\EntityFramework.dll
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\EntityFramework.xml
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\CreateEmployee.baml
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\CreateEmployee.g.cs
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\EditEmployee.g.cs
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\ViewEmployee.g.cs
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\App.g.cs
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\WpfApp2_Content.g.cs
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\EditEmployee.baml
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\ViewEmployee.baml
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\WpfApp2.csproj.Up2Date
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\MaterialDesignColors.dll
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Pc\source\repos\WpfApp2\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Pc\source\repos\WpfApp2\obj\Debug\App.baml
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\EntityFramework.dll
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\MaterialDesignColors.dll
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\EntityFramework.xml
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\CreateEmployee.baml
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\EditEmployee.baml
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\ViewEmployee.baml
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\App.baml
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\CreateEmployee.g.cs
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\EditEmployee.g.cs
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\ViewEmployee.g.cs
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\App.g.cs
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\WpfApp2_Content.g.cs
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-30 (16Sept)\WpfApp2\obj\Debug\WpfApp2.csproj.Up2Date

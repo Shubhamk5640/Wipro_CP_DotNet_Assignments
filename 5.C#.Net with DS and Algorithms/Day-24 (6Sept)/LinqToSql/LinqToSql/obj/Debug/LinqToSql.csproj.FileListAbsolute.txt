@@ -1,0 +1,7 @@
+C:\Users\Shubham\Desktop\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-24 (6Sept)\LinqToSql\LinqToSql\obj\Debug\LinqToSql.csproj.AssemblyReference.cache
+C:\Users\Shubham\Desktop\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-24 (6Sept)\LinqToSql\LinqToSql\obj\Debug\LinqToSql.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\Desktop\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-24 (6Sept)\LinqToSql\LinqToSql\bin\Debug\LinqToSql.exe.config
+C:\Users\Shubham\Desktop\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-24 (6Sept)\LinqToSql\LinqToSql\bin\Debug\LinqToSql.exe
+C:\Users\Shubham\Desktop\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-24 (6Sept)\LinqToSql\LinqToSql\bin\Debug\LinqToSql.pdb
+C:\Users\Shubham\Desktop\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-24 (6Sept)\LinqToSql\LinqToSql\obj\Debug\LinqToSql.exe
+C:\Users\Shubham\Desktop\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-24 (6Sept)\LinqToSql\LinqToSql\obj\Debug\LinqToSql.pdb

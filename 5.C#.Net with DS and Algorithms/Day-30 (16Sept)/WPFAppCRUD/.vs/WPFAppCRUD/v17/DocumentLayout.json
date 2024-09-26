@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|c:\\users\\shubham\\desktop\\wipro training\\wipro_cp_dotnet_training_56days\\5.c#.net with ds and algorithms\\day-30 (16sept)\\wpfappcrud\\wpfappcrud\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|solutionrelative:wpfappcrud\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\wpfappcrud\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|solutionrelative:wpfappcrud\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\wpfappcrud\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|solutionrelative:wpfappcrud\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\wpfappcrud\\editemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|solutionrelative:wpfappcrud\\editemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\wpfappcrud\\employeemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|solutionrelative:wpfappcrud\\employeemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\wpfappcrud\\createemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|solutionrelative:wpfappcrud\\createemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|c:\\users\\shubham\\desktop\\wipro training\\wipro_cp_dotnet_training_56days\\5.c#.net with ds and algorithms\\day-30 (16sept)\\wpfappcrud\\wpfappcrud\\employeemodel.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|solutionrelative:wpfappcrud\\employeemodel.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\wpfappcrud\\viewemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|solutionrelative:wpfappcrud\\viewemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|c:\\users\\shubham\\desktop\\wipro training\\wipro_cp_dotnet_training_56days\\5.c#.net with ds and algorithms\\day-30 (16sept)\\wpfappcrud\\wpfappcrud\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|solutionrelative:wpfappcrud\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\wpfappcrud\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|solutionrelative:wpfappcrud\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\wpfappcrud\\viewemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|solutionrelative:wpfappcrud\\viewemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\wpfappcrud\\editemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|solutionrelative:wpfappcrud\\editemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\wpfappcrud\\createemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66ABB2C1-1B70-4458-B39E-3754DD014A40}|WPFAppCRUD\\WPFAppCRUD.csproj|solutionrelative:wpfappcrud\\createemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditEmployee.xaml",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\EditEmployee.xaml",
+              "RelativeDocumentMoniker": "WPFAppCRUD\\EditEmployee.xaml",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\EditEmployee.xaml",
+              "RelativeToolTip": "WPFAppCRUD\\EditEmployee.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T08:20:20.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFAppCRUD\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\MainWindow.xaml",
+              "RelativeToolTip": "WPFAppCRUD\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T08:16:38.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\App.xaml",
+              "RelativeDocumentMoniker": "WPFAppCRUD\\App.xaml",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\App.xaml",
+              "RelativeToolTip": "WPFAppCRUD\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T08:21:38.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFAppCRUD\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFAppCRUD\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:16:36.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\EmployeeModel.edmx",
+              "RelativeDocumentMoniker": "WPFAppCRUD\\EmployeeModel.edmx",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\EmployeeModel.edmx [Diagram1]",
+              "RelativeToolTip": "WPFAppCRUD\\EmployeeModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-17T08:55:58.672Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateEmployee.xaml",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\CreateEmployee.xaml",
+              "RelativeDocumentMoniker": "WPFAppCRUD\\CreateEmployee.xaml",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\CreateEmployee.xaml",
+              "RelativeToolTip": "WPFAppCRUD\\CreateEmployee.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T08:19:53.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeModel.tt",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\EmployeeModel.tt",
+              "RelativeDocumentMoniker": "WPFAppCRUD\\EmployeeModel.tt",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\EmployeeModel.tt",
+              "RelativeToolTip": "WPFAppCRUD\\EmployeeModel.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-18T15:14:59.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewEmployee.xaml",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\ViewEmployee.xaml",
+              "RelativeDocumentMoniker": "WPFAppCRUD\\ViewEmployee.xaml",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\ViewEmployee.xaml",
+              "RelativeToolTip": "WPFAppCRUD\\ViewEmployee.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T08:20:46.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\packages.config",
+              "RelativeDocumentMoniker": "WPFAppCRUD\\packages.config",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\packages.config",
+              "RelativeToolTip": "WPFAppCRUD\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-18T15:05:59.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\App.config",
+              "RelativeDocumentMoniker": "WPFAppCRUD\\App.config",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\App.config",
+              "RelativeToolTip": "WPFAppCRUD\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAC7AQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-17T08:42:13.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewEmployee.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\ViewEmployee.xaml.cs",
+              "RelativeDocumentMoniker": "WPFAppCRUD\\ViewEmployee.xaml.cs",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\ViewEmployee.xaml.cs",
+              "RelativeToolTip": "WPFAppCRUD\\ViewEmployee.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwDYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:26:05.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditEmployee.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\EditEmployee.xaml.cs",
+              "RelativeDocumentMoniker": "WPFAppCRUD\\EditEmployee.xaml.cs",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\EditEmployee.xaml.cs",
+              "RelativeToolTip": "WPFAppCRUD\\EditEmployee.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwFkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:23:37.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateEmployee.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\CreateEmployee.xaml.cs",
+              "RelativeDocumentMoniker": "WPFAppCRUD\\CreateEmployee.xaml.cs",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\5.C#.Net with DS and Algorithms\\Day-30 (16Sept)\\WPFAppCRUD\\WPFAppCRUD\\CreateEmployee.xaml.cs",
+              "RelativeToolTip": "WPFAppCRUD\\CreateEmployee.xaml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAuwGgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:22:40.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|c:\\users\\pc\\source\\repos\\wpfapp2\\viewemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|solutionrelative:viewemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|c:\\users\\pc\\source\\repos\\wpfapp2\\viewemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|solutionrelative:viewemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|c:\\users\\pc\\source\\repos\\wpfapp2\\editemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|solutionrelative:editemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|c:\\users\\pc\\source\\repos\\wpfapp2\\createemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|solutionrelative:createemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|c:\\users\\pc\\source\\repos\\wpfapp2\\createemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|solutionrelative:createemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|c:\\users\\pc\\source\\repos\\wpfapp2\\employeemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|solutionrelative:employeemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|c:\\users\\pc\\source\\repos\\wpfapp2\\editemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|solutionrelative:editemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|c:\\users\\pc\\source\\repos\\wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|c:\\users\\pc\\source\\repos\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|c:\\users\\pc\\source\\repos\\wpfapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|c:\\users\\pc\\source\\repos\\wpfapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{17AEFDD1-B5C4-4460-B235-78DBD0EEC4FA}|WpfApp2.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateEmployee.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\CreateEmployee.xaml.cs",
+              "RelativeDocumentMoniker": "CreateEmployee.xaml.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\CreateEmployee.xaml.cs",
+              "RelativeToolTip": "CreateEmployee.xaml.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:37:23.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\EmployeeModel.edmx",
+              "RelativeDocumentMoniker": "EmployeeModel.edmx",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\EmployeeModel.edmx [Diagram1]",
+              "RelativeToolTip": "EmployeeModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-16T09:40:58.406Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:34:21.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditEmployee.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\EditEmployee.xaml.cs",
+              "RelativeDocumentMoniker": "EditEmployee.xaml.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\EditEmployee.xaml.cs",
+              "RelativeToolTip": "EditEmployee.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:52:39.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewEmployee.xaml",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\ViewEmployee.xaml",
+              "RelativeDocumentMoniker": "ViewEmployee.xaml",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\ViewEmployee.xaml",
+              "RelativeToolTip": "ViewEmployee.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T09:36:43.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditEmployee.xaml",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\EditEmployee.xaml",
+              "RelativeDocumentMoniker": "EditEmployee.xaml",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\EditEmployee.xaml",
+              "RelativeToolTip": "EditEmployee.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T09:36:32.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewEmployee.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\ViewEmployee.xaml.cs",
+              "RelativeDocumentMoniker": "ViewEmployee.xaml.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\ViewEmployee.xaml.cs",
+              "RelativeToolTip": "ViewEmployee.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:04:17.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateEmployee.xaml",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\CreateEmployee.xaml",
+              "RelativeDocumentMoniker": "CreateEmployee.xaml",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\CreateEmployee.xaml",
+              "RelativeToolTip": "CreateEmployee.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T09:36:16.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T09:34:22.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-16T11:13:53.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\WpfApp2\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T10:45:21.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

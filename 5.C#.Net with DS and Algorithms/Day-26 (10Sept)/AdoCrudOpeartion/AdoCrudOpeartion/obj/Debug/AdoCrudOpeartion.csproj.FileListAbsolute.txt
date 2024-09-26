@@ -1,0 +1,10 @@
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-26 (Sept)\AdoCrudOpeartion\AdoCrudOpeartion\obj\Debug\AdoCrudOpeartion.csproj.AssemblyReference.cache
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-26 (Sept)\AdoCrudOpeartion\AdoCrudOpeartion\obj\Debug\AdoCrudOpeartion.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-26 (Sept)\AdoCrudOpeartion\AdoCrudOpeartion\bin\Debug\AdoCrudOpeartion.exe.config
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-26 (Sept)\AdoCrudOpeartion\AdoCrudOpeartion\bin\Debug\AdoCrudOpeartion.exe
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-26 (Sept)\AdoCrudOpeartion\AdoCrudOpeartion\bin\Debug\AdoCrudOpeartion.pdb
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-26 (Sept)\AdoCrudOpeartion\AdoCrudOpeartion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-26 (Sept)\AdoCrudOpeartion\AdoCrudOpeartion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-26 (Sept)\AdoCrudOpeartion\AdoCrudOpeartion\obj\Debug\AdoCrudO.C8CDB528.Up2Date
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-26 (Sept)\AdoCrudOpeartion\AdoCrudOpeartion\obj\Debug\AdoCrudOpeartion.exe
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-26 (Sept)\AdoCrudOpeartion\AdoCrudOpeartion\obj\Debug\AdoCrudOpeartion.pdb

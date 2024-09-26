@@ -1,0 +1,14 @@
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\CodeFirstCrudOperation\CodeFirstCrudOperation\bin\Debug\CodeFirstCrudOperation.exe.config
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\CodeFirstCrudOperation\CodeFirstCrudOperation\bin\Debug\CodeFirstCrudOperation.exe
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\CodeFirstCrudOperation\CodeFirstCrudOperation\bin\Debug\CodeFirstCrudOperation.pdb
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\CodeFirstCrudOperation\CodeFirstCrudOperation\bin\Debug\EntityFramework.dll
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\CodeFirstCrudOperation\CodeFirstCrudOperation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\CodeFirstCrudOperation\CodeFirstCrudOperation\bin\Debug\EntityFramework.xml
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\CodeFirstCrudOperation\CodeFirstCrudOperation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\CodeFirstCrudOperation\CodeFirstCrudOperation\obj\Debug\CodeFirstCrudOperation.csproj.AssemblyReference.cache
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\CodeFirstCrudOperation\CodeFirstCrudOperation\obj\Debug\CodeFirstCrudOperation.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\CodeFirstCrudOperation\CodeFirstCrudOperation\obj\Debug\CodeFirs.193FE284.Up2Date
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\CodeFirstCrudOperation\CodeFirstCrudOperation\obj\Debug\CodeFirstCrudOperation.exe
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\CodeFirstCrudOperation\CodeFirstCrudOperation\obj\Debug\CodeFirstCrudOperation.pdb
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\CodeFirstCrudOperation\CodeFirstCrudOperation\obj\Debug\CodeFirstCrudOperation.Migrations.InitialCreate.resources
+C:\Users\Shubham\Desktop\Wipro Training\Wipro_CP_DotNet_Training_56days\5.C#.Net with DS and Algorithms\Day-27 (11Sept)\CodeFirstCrudOperation\CodeFirstCrudOperation\obj\Debug\CodeFirstCrudOperation.csproj.GenerateResource.cache

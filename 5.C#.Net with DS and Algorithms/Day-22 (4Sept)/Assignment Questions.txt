@@ -1,0 +1,16 @@
+Person class :
+  FirstName
+  LastName
+  Age
+  Gender
+  Salary
+ 
+Task 1: Complex Queries with Filtering and Ordering
+Given a list of Person objects (with FirstName, LastName, and Age properties), perform the following:
+a) Use LINQ to select and print names of all persons whose age is over 30.
+b) Order the persons by last name and then by first name and print the sorted list.
+ 
+Task 2: Aggregation Operations in LINQ
+With the same Person list from Assignment 2, perform the following:
+a) Calculate the average age of all persons.
+b) Find and print the oldest and youngest person's full name.

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+                                 <bookstore>
+                                    <book>
+                                        <title>The Art of War</title>
+                                        <author>John Doe</author>
+                                        <price>150</price>
+                                    </book>
+                                    <book>
+                                        <title>Mindset</title>
+                                        <author>Jane Smith</author>
+                                        <price>129</price>
+                                    </book>
+                                    <book>
+                                        <title>Atomic Habits</title>
+                                        <author>John Doe</author>
+                                        <price>99</price>
+                                    </book>
+                                 </bookstore>

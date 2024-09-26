@@ -1,0 +1,41 @@
+﻿<Page x:Class="WPFAppCRUD.EditEmployee"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPFAppCRUD"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="EditEmployee">
+    <Grid Height="344" Width="667" Background="White">
+        <!-- Employee ID -->
+        <Label Content="Employee ID:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="40,35,0,0" Height="35" Width="166"/>
+        <TextBox x:Name="EmployeeIdTextBox" HorizontalAlignment="Center" VerticalAlignment="Top" Width="209" Margin="0,35,0,0" Height="24"/>
+        <Button Content="Get" HorizontalAlignment="Left" VerticalAlignment="Top" Width="105" Margin="459,35,0,0" Click="GetEmployee_Click" Height="27"/>
+
+        <!-- Employee Name -->
+        <Label Content="Employee Name:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="40,89,0,0" Height="36" Width="208"/>
+        <TextBox x:Name="NameTextBox" HorizontalAlignment="Center" VerticalAlignment="Top" Width="209" Margin="0,89,0,0" Height="25"/>
+
+        <!-- Gender -->
+        <Label Content="Gender:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="40,144,0,0" Height="35" Width="108"/>
+        <RadioButton x:Name="MaleRadioButton" Content="Male" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="229,144,0,0" Height="20" Width="59"/>
+        <RadioButton x:Name="FemaleRadioButton" Content="Female" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="307,144,0,0" Height="20" Width="74"/>
+
+        <!-- Country -->
+        <Label Content="Country:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="435,138,0,0" Height="35" Width="53"/>
+        <ComboBox x:Name="CountryComboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="102" Margin="512,139,0,0" Height="30">
+            <ComboBoxItem Content="India"/>
+            <ComboBoxItem Content="USA"/>
+            <ComboBoxItem Content="UK"/>
+        </ComboBox>
+
+        <!-- Date of Birth -->
+        <Label Content="Date of Birth:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="40,199,0,0" Height="36" Width="167"/>
+        <DatePicker x:Name="DOBPicker" HorizontalAlignment="Center" VerticalAlignment="Top" Width="209" Margin="0,199,0,0" Height="33"/>
+
+        <!-- Update Button -->
+        <Button x:Name="UpdateButton" Content="Update" HorizontalAlignment="Center" VerticalAlignment="Top" Width="209" Margin="0,288,0,0" Click="UpdateEmployee_Click" Height="27"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="192" Margin="21,70,0,0" VerticalAlignment="Top" Width="620"/>
+    </Grid>
+</Page>
