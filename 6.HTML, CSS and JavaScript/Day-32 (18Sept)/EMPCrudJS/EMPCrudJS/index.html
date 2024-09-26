@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employees</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .container {
+            margin-top: 50px;
+        }
+
+        h2 {
+            margin-bottom: 20px;
+        }
+
+        .btn-custom {
+            width: 70px;
+        }
+
+        .btn-view {
+            background-color: #28a745;
+            color: white;
+        }
+
+        .btn-edit {
+            background-color: #007bff;
+            color: white;
+        }
+
+        .btn-delete {
+            background-color: #dc3545;
+            color: white;
+        }
+
+        .btn-back {
+            float: right;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2>Employees</h2>
+        <!-- Create Button -->
+        <a href="create.html" class="btn btn-primary mb-3">Create</a>
+
+        <!-- Employee Table -->
+        <table class="table table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th>Sr. No.</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Shubham</td>
+                    <td>Shubham@gmail.com</td>
+                    <td>
+                        <a href="view.html?name=Shubham&email=Shubham@gmail.com" class="btn btn-view btn-sm btn-custom">View</a>
+                        <a href="edit.html?name=Shubham&email=Shubham@gmail.com" class="btn btn-edit btn-sm btn-custom">Edit</a>
+                        <button class="btn btn-delete btn-sm btn-custom">Delete</button>
+                    </td>
+                </tr>
+                <!-- More employees here -->
+            </tbody>
+        </table>
+
+        <!-- Back to List Button -->
+        <a href="index.html" class="btn btn-secondary btn-back">Back to List</a>
+    </div>
+
+    <!-- Delete Confirmation Modal -->
+    <div class="modal fade" id="deleteModal" tabindex="-1" aria-labelledby="deleteModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="deleteModalLabel">Confirm Deletion</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    Are you sure you want to delete this employee?
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-danger" id="confirmDelete">Delete</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Custom Script for Handling Buttons -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            let deleteButtons = document.querySelectorAll('.btn-delete');
+            let confirmDeleteButton = document.getElementById('confirmDelete');
+            let deleteModal = new bootstrap.Modal(document.getElementById('deleteModal'));
+            let employeeToDelete = null;
+
+            // Add event listeners to delete buttons
+            deleteButtons.forEach(function (button) {
+                button.addEventListener('click', function () {
+                    employeeToDelete = button.closest('tr'); // Get the row of the employee to delete
+                    deleteModal.show(); // Show the modal
+                });
+            });
+
+            // Confirm deletion
+            confirmDeleteButton.addEventListener('click', function () {
+                if (employeeToDelete) {
+                    employeeToDelete.remove(); // Remove the employee row
+                    deleteModal.hide(); // Hide the modal
+                    alert('Employee has been deleted');
+                }
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EMPCrudJS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59DF9863-E89C-4F8D-B4CD-75CA330B716E}|EMPCrudJS\\EMPCrudJS.csproj|c:\\users\\shubham\\desktop\\wipro training\\wipro_cp_dotnet_training_56days\\6.html, css and javascript\\day-32 (18sept)\\empcrudjs\\empcrudjs\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59DF9863-E89C-4F8D-B4CD-75CA330B716E}|EMPCrudJS\\EMPCrudJS.csproj|solutionrelative:empcrudjs\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DF9863-E89C-4F8D-B4CD-75CA330B716E}|EMPCrudJS\\EMPCrudJS.csproj|c:\\users\\shubham\\desktop\\wipro training\\wipro_cp_dotnet_training_56days\\6.html, css and javascript\\day-32 (18sept)\\empcrudjs\\empcrudjs\\create.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59DF9863-E89C-4F8D-B4CD-75CA330B716E}|EMPCrudJS\\EMPCrudJS.csproj|solutionrelative:empcrudjs\\create.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DF9863-E89C-4F8D-B4CD-75CA330B716E}|EMPCrudJS\\EMPCrudJS.csproj|c:\\users\\shubham\\desktop\\wipro training\\wipro_cp_dotnet_training_56days\\6.html, css and javascript\\day-32 (18sept)\\empcrudjs\\empcrudjs\\view.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59DF9863-E89C-4F8D-B4CD-75CA330B716E}|EMPCrudJS\\EMPCrudJS.csproj|solutionrelative:empcrudjs\\view.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DF9863-E89C-4F8D-B4CD-75CA330B716E}|EMPCrudJS\\EMPCrudJS.csproj|c:\\users\\shubham\\desktop\\wipro training\\wipro_cp_dotnet_training_56days\\6.html, css and javascript\\day-32 (18sept)\\empcrudjs\\empcrudjs\\edit.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59DF9863-E89C-4F8D-B4CD-75CA330B716E}|EMPCrudJS\\EMPCrudJS.csproj|solutionrelative:empcrudjs\\edit.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "create.html",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EMPCrudJS\\EMPCrudJS\\create.html",
+              "RelativeDocumentMoniker": "EMPCrudJS\\create.html",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EMPCrudJS\\EMPCrudJS\\create.html",
+              "RelativeToolTip": "EMPCrudJS\\create.html",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAowKYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-18T09:54:23.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "edit.html",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EMPCrudJS\\EMPCrudJS\\edit.html",
+              "RelativeDocumentMoniker": "EMPCrudJS\\edit.html",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EMPCrudJS\\EMPCrudJS\\edit.html",
+              "RelativeToolTip": "EMPCrudJS\\edit.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-18T09:53:40.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "view.html",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EMPCrudJS\\EMPCrudJS\\view.html",
+              "RelativeDocumentMoniker": "EMPCrudJS\\view.html",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EMPCrudJS\\EMPCrudJS\\view.html",
+              "RelativeToolTip": "EMPCrudJS\\view.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-18T09:53:10.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EMPCrudJS\\EMPCrudJS\\index.html",
+              "RelativeDocumentMoniker": "EMPCrudJS\\index.html",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EMPCrudJS\\EMPCrudJS\\index.html",
+              "RelativeToolTip": "EMPCrudJS\\index.html",
+              "ViewState": "AQIAADAAAAAAAAAAAAAiwDwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-18T09:52:35.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

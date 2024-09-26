@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EmployeeJS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A083DA-A0A9-41B9-8227-AC897B31D2A2}|EmployeeJS\\EmployeeJS.csproj|c:\\users\\shubham\\desktop\\wipro training\\wipro_cp_dotnet_training_56days\\6.html, css and javascript\\day-32 (18sept)\\employeejs\\employeejs\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A083DA-A0A9-41B9-8227-AC897B31D2A2}|EmployeeJS\\EmployeeJS.csproj|solutionrelative:employeejs\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A083DA-A0A9-41B9-8227-AC897B31D2A2}|EmployeeJS\\EmployeeJS.csproj|c:\\users\\shubham\\desktop\\wipro training\\wipro_cp_dotnet_training_56days\\6.html, css and javascript\\day-32 (18sept)\\employeejs\\employeejs\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B4A083DA-A0A9-41B9-8227-AC897B31D2A2}|EmployeeJS\\EmployeeJS.csproj|solutionrelative:employeejs\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A083DA-A0A9-41B9-8227-AC897B31D2A2}|EmployeeJS\\EmployeeJS.csproj|c:\\users\\shubham\\desktop\\wipro training\\wipro_cp_dotnet_training_56days\\6.html, css and javascript\\day-32 (18sept)\\employeejs\\employeejs\\create-employee.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A083DA-A0A9-41B9-8227-AC897B31D2A2}|EmployeeJS\\EmployeeJS.csproj|solutionrelative:employeejs\\create-employee.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A083DA-A0A9-41B9-8227-AC897B31D2A2}|EmployeeJS\\EmployeeJS.csproj|c:\\users\\shubham\\desktop\\wipro training\\wipro_cp_dotnet_training_56days\\6.html, css and javascript\\day-32 (18sept)\\employeejs\\employeejs\\employee-list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A083DA-A0A9-41B9-8227-AC897B31D2A2}|EmployeeJS\\EmployeeJS.csproj|solutionrelative:employeejs\\employee-list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "employee-list.html",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EmployeeJS\\EmployeeJS\\employee-list.html",
+              "RelativeDocumentMoniker": "EmployeeJS\\employee-list.html",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EmployeeJS\\EmployeeJS\\employee-list.html",
+              "RelativeToolTip": "EmployeeJS\\employee-list.html",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAiwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-18T10:49:04.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dashboard.html",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EmployeeJS\\EmployeeJS\\dashboard.html",
+              "RelativeDocumentMoniker": "EmployeeJS\\dashboard.html",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EmployeeJS\\EmployeeJS\\dashboard.html",
+              "RelativeToolTip": "EmployeeJS\\dashboard.html",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAiwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-18T10:48:08.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Script.js",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EmployeeJS\\EmployeeJS\\Script.js",
+              "RelativeDocumentMoniker": "EmployeeJS\\Script.js",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EmployeeJS\\EmployeeJS\\Script.js",
+              "RelativeToolTip": "EmployeeJS\\Script.js",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-18T10:43:29.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "create-employee.html",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EmployeeJS\\EmployeeJS\\create-employee.html",
+              "RelativeDocumentMoniker": "EmployeeJS\\create-employee.html",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-32 (18Sept)\\EmployeeJS\\EmployeeJS\\create-employee.html",
+              "RelativeToolTip": "EmployeeJS\\create-employee.html",
+              "ViewState": "AQIAANcAAAAAAAAAAAAAAOMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-18T10:28:27.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

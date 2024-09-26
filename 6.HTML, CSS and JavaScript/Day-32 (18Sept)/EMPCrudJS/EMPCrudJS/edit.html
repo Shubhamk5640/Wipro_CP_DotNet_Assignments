@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Employee</title>
+</head>
+<body>
+    <h2>Edit Employee</h2>
+    <form action="index.html" method="GET">
+        <div>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name">
+        </div>
+        <div>
+            <label for="email">Email:</label>
+            <input type="text" id="email" name="email">
+        </div>
+        <button type="submit">Save</button>
+    </form>
+
+    <script>
+        // Populate the form fields with the existing employee data
+        function populateForm() {
+            const params = new URLSearchParams(window.location.search);
+            document.getElementById('name').value = params.get('name');
+            document.getElementById('email').value = params.get('email');
+        }
+
+        window.onload = populateForm;
+    </script>
+</body>
+</html>

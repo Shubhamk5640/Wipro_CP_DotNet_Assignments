@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-31 (17Sept)\\HTMLFORM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C780C0AD-57E4-4F5B-917E-E947E44D1AB4}|HTMLFORM\\HTMLFORM.csproj|c:\\users\\shubham\\desktop\\wipro training\\wipro_cp_dotnet_training_56days\\6.html, css and javascript\\day-31 (17sept)\\htmlform\\htmlform\\employee.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C780C0AD-57E4-4F5B-917E-E947E44D1AB4}|HTMLFORM\\HTMLFORM.csproj|solutionrelative:htmlform\\employee.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C780C0AD-57E4-4F5B-917E-E947E44D1AB4}|HTMLFORM\\HTMLFORM.csproj|c:\\users\\shubham\\desktop\\wipro training\\wipro_cp_dotnet_training_56days\\6.html, css and javascript\\day-31 (17sept)\\htmlform\\htmlform\\form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C780C0AD-57E4-4F5B-917E-E947E44D1AB4}|HTMLFORM\\HTMLFORM.csproj|solutionrelative:htmlform\\form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.html",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-31 (17Sept)\\HTMLFORM\\HTMLFORM\\Employee.html",
+              "RelativeDocumentMoniker": "HTMLFORM\\Employee.html",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-31 (17Sept)\\HTMLFORM\\HTMLFORM\\Employee.html",
+              "RelativeToolTip": "HTMLFORM\\Employee.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-18T16:05:11.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form.html",
+              "DocumentMoniker": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-31 (17Sept)\\HTMLFORM\\HTMLFORM\\Form.html",
+              "RelativeDocumentMoniker": "HTMLFORM\\Form.html",
+              "ToolTip": "C:\\Users\\Shubham\\Desktop\\Wipro Training\\Wipro_CP_DotNet_Training_56days\\6.HTML, CSS and JavaScript\\Day-31 (17Sept)\\HTMLFORM\\HTMLFORM\\Form.html",
+              "RelativeToolTip": "HTMLFORM\\Form.html",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAowM4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-17T09:06:52.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

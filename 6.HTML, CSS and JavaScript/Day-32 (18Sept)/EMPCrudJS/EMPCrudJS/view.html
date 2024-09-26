@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>View Employee</title>
+</head>
+<body>
+    <h2>Employee Details</h2>
+    <p>Name: <span id="employeeName"></span></p>
+    <p>Email: <span id="employeeEmail"></span></p>
+
+    <script>
+        // Function to get URL parameters
+        function getQueryParams() {
+            const params = new URLSearchParams(window.location.search);
+            const name = params.get('name');
+            const email = params.get('email');
+            document.getElementById('employeeName').textContent = name;
+            document.getElementById('employeeEmail').textContent = email;
+        }
+
+        // Call the function when the page loads
+        window.onload = getQueryParams;
+    </script>
+</body>
+</html>
