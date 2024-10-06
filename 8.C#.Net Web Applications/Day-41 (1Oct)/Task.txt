@@ -1,0 +1,14 @@
+1) create restful web API for employee.
+   FirstName
+   MiddleName
+   LastName
+   Country
+   Gender
+   PhoneNumber
+   DateofBirth
+   Age
+ 
+   a) get list of employee data by end point GET->  ( /employee/list )
+   b) get single employee by end point       GET->  (/employee/details/{id} )
+   c) create employee by end point           POST-> ( /employee )
+has context menu
