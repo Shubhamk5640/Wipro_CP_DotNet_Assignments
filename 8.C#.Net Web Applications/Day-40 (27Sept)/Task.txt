@@ -1,0 +1,11 @@
+1) Login controller
+   Email Validation ( when typing in textbox)- remote validation
+   Password 
+   Confirm Password 
+   Do the signup and ask to login and redirect to DashBoard page where employee data will be shown
+2) Employee Controller
+   List with (DB or Code First Approach)
+
+
+
+ Scaffold-DbContext "Server=(localdb)\\MSSQLLocalDB;Database=EmpDB;Trusted_Connection=True;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -f
